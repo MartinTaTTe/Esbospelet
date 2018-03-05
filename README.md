@@ -1,11 +1,8 @@
 # Esbo Spelet
 
-Small parody game written in C# and Unity3D about the development of the city of Espoo and the construction of LÃ¤nsimetro.
-Version control mainly handled in Unity3D.
+Small game written in C# and Unity3D about the development of the city of Espoo and the construction of Länsimetro.
 
 The game won second place at Teknatur Technology project competition.
-
-Made this to test out Unity3D and to learn procedural generation.
 
 ## Procedurally generated:
 * Hexagonal grid
