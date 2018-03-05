@@ -15,6 +15,7 @@ The game won second place at Teknatur Technology project competition.
 * Elections
 * News
 * Resource tiles
+* Even more
 
 ## Other features
 * Building metro connections and stations
