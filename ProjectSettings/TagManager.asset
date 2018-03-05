@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nagpp
+  - MapTiles
+  - TimeText
+  - RailButton
+  - _Manager
+  - Money
+  - NewsText
+  - NewsTextTitle
+  - NewsBox
+  - PoliticsCanvas
+  - PoliticsPanel
+  - PolInspectorPanel
+  - MetroPanel
+  - LineFactory
+  - LineCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lines
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Rails
+    uniqueID: 2714102747
+    locked: 0
+  - name: MapTiles
+    uniqueID: 2735075361
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 1757563103
+    locked: 0
