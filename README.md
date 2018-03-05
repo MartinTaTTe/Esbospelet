@@ -3,6 +3,8 @@
 Small game written in C# and Unity3D about the development of the city of Espoo and the construction of Länsimetro.
 
 The game won second place at Teknatur Technology project competition.
+## Download
+[Download here](https://bitbucket.org/ottolahepelto/espoo-game/downloads/Espoo%20Game%20Release%20Version.zip "Download Espoo Game")
 
 ## Procedurally generated:
 * Hexagonal grid
@@ -19,6 +21,10 @@ The game won second place at Teknatur Technology project competition.
 * Much more
 
 ## Images
+![Start Menu](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet4.PNG)
+![Image](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet1.PNG)
+![Image](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet2.PNG)
+![Image](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet3.PNG)
 
 *LICENSE*
 
