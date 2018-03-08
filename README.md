@@ -1,7 +1,7 @@
 ![Image](https://bytebucket.org/ottolahepelto/espoo-game/raw/6e56d968892b6b312e9b7d160e95c9c2af642f81/git-images/Untitled-1.png)
 # Esbo Spelet
 
-Small game written in C# and Unity3D about the development of the city of Espoo and the construction of Länsimetro.
+Small game written in C# and Unity3D about the development of the city of Espoo and the construction of LÃ¤nsimetro.
 
 The game won second place at Teknatur Technology project competition.
 ## Download
@@ -23,10 +23,10 @@ The game won second place at Teknatur Technology project competition.
 * Much more
 
 ## Images
-![Start Menu](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet4.PNG)
-![Image](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet1.PNG)
-![Image](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet2.PNG)
-![Image](https://bytebucket.org/ottolahepelto/espoo-game/raw/737a09fe97657204dad352a0704cbaccdf0c0d5f/git-images/Esbospelet3.PNG)
+![Start Menu](https://raw.githubusercontent.com/prohaukka/Espoo-Game/master/git-images/Esbospelet4.PNG)
+![Image](https://raw.githubusercontent.com/prohaukka/Espoo-Game/master/git-images/Esbospelet1.PNG)
+![Image](https://raw.githubusercontent.com/prohaukka/Espoo-Game/master/git-images/Esbospelet2.PNG)
+![Image](https://raw.githubusercontent.com/prohaukka/Espoo-Game/master/git-images/Esbospelet3.PNG)
 
 *LICENSE*
 
