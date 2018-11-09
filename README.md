@@ -29,8 +29,8 @@ The game won second place at Teknatur Technology project competition.
 ![Image](https://raw.githubusercontent.com/prohaukka/Espoo-Game/master/git-images/Esbospelet3.PNG)
 
 ## Credits
-* Martin Sederholm
-* Otto Lähepelto
+* Martin Sederholm(Programming, Art)
+* Otto Lähepelto(Programming, 3d modelling)
 
 *LICENSE*
 
