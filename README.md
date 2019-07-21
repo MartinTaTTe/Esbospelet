@@ -30,7 +30,7 @@ The game won second place at Teknatur Technology project competition.
 
 ## Credits
 * Martin Sederholm(Programming, Art)
-* Otto Lähepelto(Programming, 3d modelling)
+* Otto Lähepelto(Programming, 3D modeling)
 
 *LICENSE*
 
